@@ -1,6 +1,6 @@
 # Eilandregelgeving
 
-De volgende regelgeving is alleen van toepassing op het eiland van Springbank Roleplay. Alle wetten opgenomen in het wetboek zijn ook van toepassing op het eiland maar er is geen handhaving van deze wetten.
+De volgende regelgeving is alleen van toepassing op het eiland van CombatGain. Alle wetten opgenomen in het wetboek zijn ook van toepassing op het eiland maar er is geen handhaving van deze wetten.
 LET OP: het verlengde land hoort hier niet bij (Rexwood). Die valt onder het gewone APV!
 
 ## Aanvullende regelgeving eiland
@@ -17,4 +17,4 @@ LET OP: het verlengde land hoort hier niet bij (Rexwood). Die valt onder het gew
 
 ### Artikel 3 - Rippen
 
-1. Rippen en handsuppen is op het gehele eiland toegestaan
+1. Rippen, combat en handsuppen is op het gehele eiland toegestaan
