@@ -16,4 +16,4 @@ De volgende documenten worden behandeld op deze website:
 |---|---|:---:|
 |CombatGain Roleplay| Discord server van CombatGain | [Klik hier](https://discord.gg/7azsP8FMag) |
 |CombatGain Support| Alle support gerelateerde zaken worden hier geregeld | [Klik hier](https://discord.gg/YwEgxYpUjT) |
-|CombatGain Overheid| Verzamelplaats van alle overheidsorganisaties | [Klik hier](https://discord.gg/84qeT9Fz9k) |
+|CombatGain Overheid| Verzamelplaats van alle overheidsorganisaties | [Klik hier](https://discord.gg/DwGQAv5zaT) |
