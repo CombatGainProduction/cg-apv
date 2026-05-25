@@ -7,9 +7,6 @@ Deze APV vormt de basis voor alle regels binnen de stad en is bedoeld om rolepla
 
 ━━━━━━━━━━━━━━━━━━
 
-# Algemene Plaatselijke Verordening CombatGain
-Officiële regeling voor CombatGain RP
-
 ## Wetstechnische informatie
 
 | Organisatie | Hoge Raad CombatGain |
