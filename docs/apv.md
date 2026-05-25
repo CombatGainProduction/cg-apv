@@ -405,6 +405,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 | Toxic gedrag | Categorie 5 Categorie 5 = Waarschuwing + 150 taken |
 
 APV opgesteld uit naam van de beheerder(s), bedoeld voor het eiland, de gemeente en de stad CombatGain.
+APV opgesteld uit naam van de beheerder(s), bedoeld voor het eiland, de gemeente en de stad CombatGain.
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor de stad **CombatGain**.
