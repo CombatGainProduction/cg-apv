@@ -9,23 +9,32 @@ Deze APV vormt de basis voor alle regels binnen de stad en is bedoeld om rolepla
 
 # Algemene Plaatselijke Verordening CombatGain
 Officiële regeling voor CombatGain RP
+
 ## Wetstechnische informatie
+
 | Organisatie | Hoge Raad CombatGain |
 | --- | --- |
 | Officiële naam regeling | Algemene Plaatselijke Verordening CombatGain |
 | Vastgesteld door | Hoge Raad CombatGain |
 
 Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhankelijk van de situatie, context en voorgeschiedenis, gemotiveerd afwijken. Door de server te joinen verklaar je akkoord te gaan met deze APV. De APV kan te allen tijde worden aangepast.
+
 ## Algemene bepalingen
+
 ### A1 Reikwijdte
+
 1. Deze Algemene Plaatselijke Verordening, hierna APV, geldt als aanvullend regelwerk op het Nederlands recht binnen het eiland, de gemeente en de stad CombatGain.
 2. De APV biedt een richtlijn voor bestraffing binnen roleplay en vormt daarnaast de basis voor afhandeling buiten roleplay om.
+
 ### A2 Geldigheid en behandeling
+
 1. Wanneer regelgeving wijzigt nadat een feit is gepleegd, wordt de voor de betrokkene meest gunstige bepaling toegepast.
 2. Een stafflid mag niet meebeslissen over zaken die betrekking hebben op zichzelf, vrienden of familie, zodat een zaak eerlijk en onafhankelijk behandeld wordt.
 3. Voor beheerders kan op lid 2 een uitzondering worden gemaakt.
 4. Wanneer aantoonbaar tegen staff wordt gelogen, bijvoorbeeld op basis van logbestanden of ander hard bewijs, kan de straf worden verzwaard.
+
 ### A3 Strafcategorieën
+
 1. Categorie 1: Waarschuwing + 50 taken.
 2. Categorie 2: Waarschuwing + 75 taken.
 3. Categorie 3: Waarschuwing + 100 taken.
