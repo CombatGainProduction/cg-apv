@@ -1,20 +1,24 @@
 # Eilandregelgeving
 
-De volgende regelgeving is alleen van toepassing op het eiland van CombatGain. Alle wetten opgenomen in het wetboek zijn ook van toepassing op het eiland maar er is geen handhaving van deze wetten.
-LET OP: het verlengde land hoort hier niet bij (Rexwood). Die valt onder het gewone APV!
+De onderstaande regelgeving is uitsluitend van toepassing op het eiland Cayo Perico binnen CombatGain.
+Hoewel het algemene wetboek en de APV formeel ook gelden op het eiland, is er geen actieve handhaving vanuit overheidsdiensten aanwezig. Het eiland geldt als een zero tolerance gebied waar inwoners op eigen risico deelnemen aan roleplayscenario’s.
 
 ## Aanvullende regelgeving eiland
 
 ### Artikel 1 - Jurisdictie
 
-1. Politie, KMAR en speciale diensten hebben geen bevoegdheden op het eiland en treden hier niet op.
-2. Uitzondering op lid 1 is: Indien een achtervolging buiten het eiland is begonnen en de betrokken persoon het eiland op vlucht, mogen deze diensten de achtervolging voortzetten binnen of rond het eiland.
+1. Politie, Ambulance en overige overheidsdiensten hebben geen actieve bevoegdheden op het eiland en zullen hier in principe niet optreden.
+2. Indien een achtervolging of scenario buiten het eiland is gestart en een verdachte vlucht richting het eiland, mogen betrokken diensten het scenario voortzetten op en rondom het eiland.
 
-### Artikel 2 - Campen
+### Artikel 2 - Zero Tolerance
 
-1. Het is niet toegestaan om actieve drugs locaties te campen om hier voordeel uit te behalen, bijvoorbeeld door te wachten op iemand om te beroven.
-2. Het is wel toegestaan om bij de wapendealer NPC te campen.
+1. Het eiland wordt beschouwd als een high risk gebied waar verhoogd crimineel conflict toegestaan is.
+2. Op het eiland is het toegestaan om personen te beroven, te handsuppen, te rippen en shootouts aan te gaan.
+3. Zodra je deelneemt aan combat op het eiland, accepteer je het risico om neergeschoten of gefinished te worden.
+4. Random shootouts zijn uitsluitend toegestaan op het eiland.
+5. Ondanks de versoepelde regelgeving blijft FailRP, cheats, exploits, metagaming en ander storend gedrag verboden.
 
-### Artikel 3 - Rippen
+### Artikel 3 - Campen
 
-1. Rippen, combat en handsuppen is op het gehele eiland toegestaan
+1. Het is niet toegestaan om actieve drugs- of grindlocaties langdurig te campen met als doel spelers direct te beroven of lastig te vallen zonder roleplay-aanleiding.
+2. Het campen van de wapendealer NPC is wel toegestaan.
