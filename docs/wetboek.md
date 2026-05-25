@@ -1,17 +1,17 @@
-# Wetboek Springbank
+# Wetboek CombatGain
 
 ## Algemene Bepalingen
 
 ### A1 - Toepassing
 
-1. Het wetboek van Springbank is van toepassing op het gehele grondgebied van de stad Springbank.
+1. Het wetboek van CombatGain is van toepassing op het gehele grondgebied van de stad CombatGain.
 2. Aanvullend op alle beschreven gevallen in dit wetboek is het Nederlands recht van toepassing.
 
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Springbank op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Springbank niet van toepassing.
+3. Minderjarigen worden binnen CombatGain op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in CombatGain niet van toepassing.
 
 ### A3 - Verjaring van het strafbaar feit
 
@@ -49,7 +49,7 @@
     8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
     9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of van de KMar.
 3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Springbank waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
+    1. Plegen van een strafbaar feit uit het wetboek van CombatGain waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
@@ -344,7 +344,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 
 ### Artikel II-11 – Succesvolle uitbraak
 
-Van een succesvolle uitbraak is sprake wanneer een persoon erin slaagt zichzelf of een ander te bevrijden uit een gevangenis, politiebureau of andere door de overheid aangewezen detentielocatie binnen Springbank.
+Van een succesvolle uitbraak is sprake wanneer een persoon erin slaagt zichzelf of een ander te bevrijden uit een gevangenis, politiebureau of andere door de overheid aangewezen detentielocatie binnen CombatGain.
 
 Het verlenen van hulp, ondersteuning of facilitering bij een succesvolle uitbraak zal leiden tot strafvermindering met 33% op onderstaande veroordeling.
 
