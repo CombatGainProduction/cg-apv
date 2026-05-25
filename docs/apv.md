@@ -55,6 +55,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 3. Het is niet toegestaan blokkades te plaatsen bij of direct voor het hek van de gevangenis.
 4. Voorbeelden zijn onder andere: een voertuig in de garage zetten om verlies tijdens een achtervolging te voorkomen; HeadID’s misbruiken om spelers te vinden; onrealistisch gebruik van het F6 menu; zonder geldige reden een burgervoertuig stelen; ongepaste of storende emotes gebruiken tijdens serieuze roleplay; een agent ontvoeren om signaleringen of MEOS informatie te wijzigen; politie dwingen een bewusteloos persoon te fouilleren en spullen af te geven; zonder aanleiding kofferbakken controleren; wapens uit kofferbakken stelen; of na een schotwond aan de benen alsnog een wapen trekken terwijl er een wapen op je gericht staat.
 5. Wanneer er een wapen op je gericht staat, moet je meewerken. Er hoeft daarvoor niet expliciet eerst iets gezegd te worden.
+
 | Onderdeel | Straf |
 | --- | --- |
 | FailRP / Powergaming | Categorie 6 Categorie 6 = Waarschuwing + 175 taken |
@@ -66,6 +67,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 4. Combat packs die voordeel geven, zoals minder begroeiing of aangepaste visuele elementen, zijn verboden.
 5. Het op je pc hebben van cheats, ongeacht de vorm, is niet toegestaan.
 6. De Hoge Raad kan op basis van beeldmateriaal of andere aanwijzingen beoordelen of sprake is van verboden hulpmiddelen.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Cheats / verboden hulpmiddelen | Categorie 9 Categorie 9 = Permanente ban |
@@ -76,6 +78,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 3. Emote abuse valt onder exploitmisbruik en wordt daarom binnen dit artikel behandeld.
 4. Het joinen van porto’s van overheidsdiensten zonder dat je bij de betreffende dienst hoort, is verboden.
 5. De enige overheidsdiensten binnen CombatGain zijn Politie en Ambulance.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Exploits | Categorie 2 Categorie 2 = Waarschuwing + 75 taken |
@@ -83,6 +86,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 
 ### Artikel 4 Verstoring van roleplay
 1. Het bewust verstoren, onderbreken of onmogelijk maken van de roleplay van andere spelers is niet toegestaan.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Verstoring roleplay | Categorie 1 Categorie 1 = Waarschuwing + 50 taken |
@@ -97,6 +101,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 7. Wanneer een eigenaar, moderator of stafflid van een externe server deze regels overtreedt, kan zwaarder worden gestraft.
 8. Voor een overvalscenario mogen via Discord aanvullende documenten of bijlagen worden gestuurd, mits dit altijd wordt ondersteund door een in game document.
 9. Staff mag beeldmateriaal opvragen wanneer een speler wordt verdacht van overtreding van dit artikel. Kan de speler dit niet aantonen, dan kan een sanctie volgen.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Metagaming / externe communicatie | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -105,6 +110,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 
 ### Artikel 6 Beroepskleding
 1. Tijdens het uitvoeren van een beroep wordt verwacht dat je de kleding draagt die door de leiding of baas van dat beroep is verstrekt.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Beroepskleding | Categorie 2 Categorie 2 = Waarschuwing + 75 taken |
@@ -112,6 +118,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ### Artikel 7 Baiting
 1. Het bewust uitlokken van politie met de bedoeling hen te irriteren, bezig te houden of zonder geldige roleplay tot actie te dwingen, wordt gezien als copbaiting.
 2. Het bewust uitlokken van officiële of onofficiële gangleden zonder geldige vorm van roleplay wordt gezien als crime baiting.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Baiting | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -119,6 +126,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 
 ### Artikel 8 Spam
 1. Het versturen van meer dan 3 berichten binnen 10 seconden of meer dan 10 berichten binnen 60 seconden, via welk middel dan ook, wordt gezien als spam.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Spam | Categorie 1 Categorie 1 = Waarschuwing + 50 taken |
@@ -133,6 +141,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 7. Het wegleggen, verstoppen of overdragen van een wapen binnen 10 minuten na gebruik tijdens een roleplayscenario wordt gezien als combatstashen.
 8. Een geript wapen mag pas na 10 minuten worden weggelegd.
 9. Wie een wapen gebruikt, moet 10 minuten wachten voordat dit wapen wordt weggelegd.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Combatlogging | Categorie 6 Categorie 6 = Waarschuwing + 175 taken |
@@ -145,6 +154,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 4. Pitten mag tot maximaal 100 km/u. Voor specialistische overheidsdiensten geldt een maximum van 150 km/u.
 5. Voor de onderwereld geldt bij pitten een maximum van 100 km/u.
 6. Voertuigen mogen geen gebouwen worden ingereden die daar niet voor bedoeld zijn; dit valt eveneens onder onrealistisch rijgedrag.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Onrealistisch rijgedrag | Categorie 2 Categorie 2 = Waarschuwing + 75 taken |
@@ -167,6 +177,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 15. Na gebruik van de taser moeten de pinnen uit het lichaam van de verdachte worden verwijderd.
 16. Een taser wordt altijd gezien als geweldsmiddel en staat qua dreiging gelijk aan een vuurwapen, ongeacht het geldende dreigingsniveau.
 17. Wanneer een persoon in een voertuig zit en daadwerkelijk wordt getaserd, moet deze persoon meewerken.
+
 | Onderdeel | Straf |
 | --- | --- |
 | No Value of Life | Categorie 7 + mogelijke wapeninname Categorie 7 = Waarschuwing + 200 taken. Aanvullend: wapeninname |
@@ -176,6 +187,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 2. Het opzettelijk weigeren om een werkende microfoon te gebruiken kan worden bestraft.
 3. Een voicechanger is toegestaan voor officiële gangs en neventaken van de politie, mits je te allen tijde verstaanbaar blijft.
 4. Het is alleen toegestaan je stem te verlagen; het verhogen van je stem is niet toegestaan.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Microfoon / stemvervorming | Categorie 1 Categorie 1 = Waarschuwing + 50 taken |
@@ -185,12 +197,14 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 2. Wanneer een report is gemaakt, mag dit niet in game worden benoemd. Staff bepaalt zelf wanneer en hoe zij aanwezig zijn.
 3. Je dient een clipsysteem aan te hebben staan om overtredingen aan te kunnen tonen.
 4. Misbruik van /report is verboden.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Reporting | Categorie 2 Categorie 2 = Waarschuwing + 75 taken |
 
 ### Artikel 14 Karakter breken en OOC termen
 1. Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt die out of character zijn, zoals report, staff, ticket, desync of vergelijkbare woorden.
+
 | Onderdeel | Straf |
 | --- | --- |
 | OOC / karakter breken | Categorie 5 Categorie 5 = Waarschuwing + 150 taken |
@@ -199,6 +213,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 1. Een alt character is een tweede of derde karakter van dezelfde speler op hetzelfde account.
 2. Een alt account is een extra account waarmee dezelfde speler speelt.
 3. Misbruik van alt characters of alt accounts is verboden.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Alt characters / alt accounts | Categorie 9 Categorie 9 = Permanente ban |
@@ -206,6 +221,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ### Artikel 16 Standaardoutfit
 1. Bij het aanmaken van een personage moet de standaardkleding worden aangepast.
 2. Het is niet toegestaan om met standaardkleding op de server te spelen.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Standaardoutfit | Categorie 1 Categorie 1 = Waarschuwing + 50 taken |
@@ -213,6 +229,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ### Artikel 17 Impersonatie van overheidsmedewerkers
 1. Het is verboden jezelf voor te doen als overheidsmedewerker of kleding te dragen waarmee je bewust die indruk wekt.
 2. Het dragen van body armor of tassen van de overheid is niet toegestaan wanneer je daar geen recht op hebt.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Impersonatie overheidsmedewerker | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -220,6 +237,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ## Overtredingen Schade aan personen
 ### Artikel 18 VDM
 1. Het bewust inrijden op een persoon met de intentie die persoon te doden of het voertuig als wapen te gebruiken, wordt gezien als VDM.
+
 | Onderdeel | Straf |
 | --- | --- |
 | VDM | Categorie 2 Categorie 2 = Waarschuwing + 75 taken |
@@ -240,6 +258,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 12. Politie mag niet direct worden doodgeschoten zodra zij aankoppelen of aanwezig zijn, tenzij sprake is van een actieve shootout waarin al meerdere keren op elkaar is uitgestapt.
 13. Wanneer het mogelijk is de communicatie of wapenriem van een agent af te nemen, is finishen niet toegestaan.
 14. Het bewust wachten op een leeggelopen scenario, of in de lucht schieten met het doel politie uit te lokken en daarna dood te schieten, wordt gezien als RDM.
+
 | Onderdeel | Straf |
 | --- | --- |
 | RDM | Categorie 4 + wapen inleveren Categorie 4 = Waarschuwing + 125 taken |
@@ -249,6 +268,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 1. Schelden met hedendaags relevante ziektes, racistische opmerkingen of andere ernstig ongepaste uitingen is verboden.
 2. Vrouwonvriendelijke beledigingen of denigrerende opmerkingen zijn verboden.
 3. Het betrekken van ouders of familieleden in beledigingen of conflicten valt onder dit artikel en wordt zwaarder beoordeeld.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Belediging / discriminatie | Categorie 4 Categorie 4 = Waarschuwing + 125 taken |
@@ -261,6 +281,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 3. Ook het misleiden van een speler over prijs, hoeveelheid, item, voorwaarden, levering, betaling of identiteit valt onder scammen.
 4. Het verbod geldt voor alle transacties en voor alle soorten middelen, zowel witgeld als zwartgeld en zowel legale als illegale goederen.
 5. Onderwereld gerelateerde items verkopen of betalen met witgeld blijft daarnaast strafbaar op basis van de relevante bepalingen uit het Wetboek CombatGain.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Scammen / oplichting | Categorie 3 of hoger, afhankelijk van ernst Categorie 3 = Waarschuwing + 100 taken. Kan hoger worden beoordeeld afhankelijk van ernst en context |
@@ -268,6 +289,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ### Artikel 22 Ontsnappen uit het cellencomplex
 1. Ontsnappen uit het cellencomplex is toegestaan, maar uitsluitend wanneer daar een geldig roleplayscenario aan gekoppeld is.
 2. Het gebruiken van exploits, bugs of emote abuse om te ontsnappen valt onder Artikel 3 Exploits en bugmisbruik.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Onrechtmatig ontsnappen | Categorie 1 Categorie 1 = Waarschuwing + 50 taken |
@@ -277,12 +299,14 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 1. Het herkennen van een speler aan zijn of haar stem is toegestaan wanneer je die persoon redelijkerwijs kent.
 2. Je mag iemands stem niet herkennen wanneer die persoon een masker draagt.
 3. Wanneer iemand een voicechanger gebruikt, mag die persoon niet aan zijn of haar stem worden herkend.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Stemherkenning | Categorie 2 Categorie 2 = Waarschuwing + 75 taken |
 
 ### Artikel 24 Streamsniping
 1. Het opzoeken van spelers, gebruiken van locaties of inzetten van informatie op basis van een stream is ten strengste verboden.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Streamsniping | Categorie 5 Categorie 5 = Waarschuwing + 150 taken |
@@ -291,12 +315,14 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 1. (Ex )leden van een criminele organisatie moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere criminele organisatie mogen worden aangenomen.
 2. (Ex )overheidsmedewerkers moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere overheidsdienst mogen worden aangenomen.
 3. Er geldt geen standaard blacklist meer bij een overstap van overheid naar onderwereld of andersom, tenzij hogerop anders beslist.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Jobhoppen | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
 
 ### Artikel 26 Appartementen
 1. In appartementen zijn oplichting, het verkopen of inkopen van wapens, het verkopen of inkopen van drugs, moord, ontvoering en wapengebruik verboden.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Appartementregels | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -304,6 +330,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ### Artikel 27 Ambulance
 1. Het is verboden om ambulancemedewerkers te vermoorden, te ontvoeren, te bedreigen, te beledigen of hun roleplay zonder geldige reden te weigeren.
 2. Ambulancemedewerkers mogen deze bescherming niet misbruiken door zelf ongepast of provocerend gedrag te vertonen.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Ambulance verstoren | Categorie 5 Categorie 5 = Waarschuwing + 150 taken |
@@ -314,6 +341,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 3. Het is overheidsmedewerkers te allen tijde verboden corrupt te zijn.
 4. Overheidsmedewerkers mogen geen criminele activiteiten uitvoeren.
 5. Overheidsmedewerkers mogen in de laatste 2 minuten van hun dood status een report maken met betrekking tot de New Life Rule.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Lid 1, 2 en 4 | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -321,12 +349,14 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 
 ### Artikel 29 Voordoen als staff
 1. Het is verboden jezelf voor te doen als stafflid of op welke manier dan ook die indruk te wekken.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Voordoen als staff | Categorie 5 Categorie 5 = Waarschuwing + 150 taken |
 
 ### Artikel 30 New Life Rule
 1. Wanneer je karakter overlijdt, wordt verwacht dat je de laatste roleplay vergeet en deze informatie niet opnieuw gebruikt.
+
 | Onderdeel | Straf |
 | --- | --- |
 | New Life Rule | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -334,6 +364,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ### Artikel 31 Doelloos verstoren zonder roleplay
 1. Het zonder geldige roleplay aanleiding lastigvallen, provoceren, hinderen of herhaaldelijk storen van spelers of scenario’s is verboden.
 2. Dit artikel ziet op gedrag dat geen duidelijke roleplaywaarde heeft en vooral bedoeld is om anderen te irriteren of scenario’s te verstoren.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Doelloos verstoren | Categorie 4 Categorie 4 = Waarschuwing + 125 taken |
@@ -342,6 +373,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 1. Het campen van belangrijke locaties is verboden wanneer dit gebeurt met het doel spelers op te wachten, te rippen, te overvallen of zonder geldige roleplay te confronteren.
 2. Onder belangrijke locaties vallen onder andere het politiehoofdbureau, het ziekenhuis, gangterreinen, verwerkingslocaties, verkooplocaties en andere drukbezochte of kwetsbare plekken.
 3. Een locatie korte tijd observeren binnen een lopend roleplayscenario kan toegestaan zijn, zolang dit realistisch blijft en niet verandert in langdurig opwachten zonder actieve roleplay.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Locatiecamping | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -350,6 +382,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 1. IRL trading is verboden. Hieronder valt het kopen, verkopen, ruilen of aanbieden van in game geld, items, wapens, voertuigen, accounts, diensten, informatie of voordelen voor echt geld of andere waarde buiten de server.
 2. Ook het vragen om betalingen, cadeaubonnen, cryptovaluta, betaalverzoeken, goederen of diensten buiten CombatGain in ruil voor in game voordeel valt onder IRL trading.
 3. Het aanbieden of faciliteren van IRL trading is eveneens verboden, ook wanneer de transactie uiteindelijk niet doorgaat.
+
 | Onderdeel | Straf |
 | --- | --- |
 | IRL trading | Categorie 10 Categorie 10 = Zwaarste sanctiecategorie; permanente ban of maatwerk door Hoge Raad of managementteam |
@@ -358,6 +391,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 1. Ambulancemedewerkers mogen niet worden ontvoerd wanneer zij zichtbaar in dienst zijn.
 2. Bij een hostage situatie mogen maximaal 2 agenten worden gegijzeld. Dit geldt ook voor overvallen.
 3. Agenten die bezig zijn met een training mogen niet worden gegijzeld.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Ontvoeren overheidsmedewerker | Categorie 5 + wapeninname Categorie 5 = Waarschuwing + 150 taken. Aanvullend: wapeninname |
@@ -372,6 +406,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 6. De clip moet vanuit je eigen perspectief zijn opgenomen en minimaal 1 minuut duren. Clips mogen niet worden ingekort wanneer om het volledige scenario wordt gevraagd.
 7. De waarde van een refund moet minimaal €10.000 bedragen.
 8. Een refund kan worden afgekeurd wanneer je niet voldoet aan de bewijsvereisten.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Refundvoorwaarden | Beoordeling door staff Wordt per situatie door staff beoordeeld |
@@ -382,6 +417,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 3. Er is geen recht op refund wanneer je wordt aangereden terwijl je door rood rijdt; dit wordt gezien als verkeersongeluk.
 4. Er is geen recht op refund wanneer je een dodelijke crash maakt met je voertuig. De ambulance bepaalt of je nog te redden bent.
 5. Wanneer jij tijdens het scenario een APV regel overtreedt, vervalt automatisch je recht op refund, ook wanneer die overtreding niet direct met de refund te maken heeft.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Onterechte refundaanvraag / misbruik | Categorie 4 Categorie 4 = Waarschuwing + 125 taken |
@@ -393,6 +429,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 3. Het is niet toegestaan om onrealistisch te landen, bijvoorbeeld met een helikopter midden op Blokkenpark, midden op straat omdat je naar een winkel wilt, of op andere plekken waar dit in realistische roleplay niet logisch is.
 4. Gebruik je gezonde verstand bij opstijgen, landen, laagvliegen en het vervoeren van personen of goederen.
 5. Op Cayo Perico/eiland mag ruimer worden geland, zolang het nog steeds op een redelijke en niet exploitende manier gebeurt.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Onrealistisch vliegen/landen | Categorie 3 Categorie 3 = Waarschuwing + 100 taken |
@@ -404,9 +441,6 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 | Onderdeel | Straf |
 | --- | --- |
 | Toxic gedrag | Categorie 5 Categorie 5 = Waarschuwing + 150 taken |
-
-APV opgesteld uit naam van de beheerder(s), bedoeld voor het eiland, de gemeente en de stad CombatGain.
-APV opgesteld uit naam van de beheerder(s), bedoeld voor het eiland, de gemeente en de stad CombatGain.
 
 ---------------------
 *"APV" is opgesteld uit naam van de Beheerder(s), bedoeld voor de stad **CombatGain**.
