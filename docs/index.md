@@ -1,4 +1,4 @@
-# Wetgeving Springbank Roleplay
+# Wetgeving CombatGain
 
 Welkom bij de wet- en regelgeving van Springbank Roleplay. De verschillende documenten die onze wet- en regelgeving omvat zijn opgesteld om de speelervaring voor iedereen zo leuk mogelijk te houden.
 
