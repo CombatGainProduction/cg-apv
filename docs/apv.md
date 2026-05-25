@@ -400,6 +400,7 @@ Let op: de genoemde strafcategorieën zijn richtlijnen. Een stafflid mag, afhank
 ### Artikel 38 Toxic gedrag
 1. Extreem toxic gedrag is niet toegestaan binnen CombatGain.
 2. Dit geldt zowel voor content buiten de stad als voor uitspraken, opmerkingen of provocerend gedrag dat in game wordt geuit.
+
 | Onderdeel | Straf |
 | --- | --- |
 | Toxic gedrag | Categorie 5 Categorie 5 = Waarschuwing + 150 taken |
