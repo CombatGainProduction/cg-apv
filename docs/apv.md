@@ -294,7 +294,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 
 > Sanctie ⇨ Categorie 7: een ban 2 weken + 200 uur taakstraf + ontheffing van dienstverband
 
-### Artikel 27 Ontvoeren van overheidsmedewerkers
+### Artikel 27 - Ontvoeren van overheidsmedewerkers
 1. Ambulancemedewerkers mogen niet worden ontvoerd wanneer zij zichtbaar in dienst zijn.
 2. Per 3 agenten in dienst mag er 1 agent gegijzeld worden. 
 3. Agenten die bezig zijn met een training mogen niet worden gegijzeld. Er moet zichtbaar zijn dat zij in een training zitten. 
