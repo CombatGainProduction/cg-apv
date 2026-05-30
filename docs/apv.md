@@ -54,6 +54,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 5. Items stelen uit kofferbakken, indien hier geen scenario aan vooraf is gegaan. 
 6. Tijdens een achtervolging je voertuig in de garage zetten om ervoor te zorgen dat je wordt gepakt. 
 7. Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden. 
+8. Indien je betrokken bent bij een vuurgevecht en geraakt wordt, is het toegestaan om deel te blijven nemen aan het gevecht. Na afloop ben je echter verplicht om medische hulp te verkrijgen van bevoegd medisch personeel.
 
 > Sanctie ⇨ Categorie 1 : Een waarschuwing
 
@@ -307,6 +308,10 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 2. Je mag vliegen zoals je wilt, maar je moet rekening houden met wat redelijkerwijs kan binnen roleplay en veiligheid.
 3. Het is niet toegestaan om onrealistisch te landen, bijvoorbeeld met een helikopter midden op Blokkenpark, midden op straat omdat je naar een winkel wilt, of op andere plekken waar dit in realistische roleplay niet logisch is.
 4. Gebruik je gezonde verstand bij opstijgen, landen, laagvliegen en het vervoeren van personen of goederen.
+
+### Artikel 29 - Minigames 
+1. Het is tijdens minigames verboden om samen te werken met andere spelers
+2. Het is toegestaan om tijdens minigames in een call te zitten.  
 
 > Sanctie ⇨ Categorie 1 : Een waarschuwing
 
