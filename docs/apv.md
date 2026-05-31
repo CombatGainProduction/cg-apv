@@ -36,6 +36,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
     * Categorie 8: een ban van 1 maand + 300 uur taakstraf
     * Categorie 9: een permanente ban
     * Categorie 10: een account wipe
+    * Categorie 11: een permanente ban & discord ban
 
 2. Een stafflid is ten alle tijden bevoegd om af te wijken van de hierboven geschreven geldigheid van opgelegde sancties. 
 3. Een stafflid kan ten alle tijden bepalen of een bepaald delict valt onder een bepaald feit, verder genoemd in deze APV. 
@@ -314,6 +315,12 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 2. Het is toegestaan om tijdens minigames in een call te zitten.  
 
 > Sanctie ⇨ Categorie 1 : Een waarschuwing
+
+### Artikel 30 - Remake's 
+1. Het is ten strengste verboden om serverbestanden te dumpen, na te maken of op welke manier dan ook te verspreiden zonder uitdrukkelijke toestemming.
+2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
+
+> Sanctie ⇨ Categorie 11 : Een permanente ban & discord ban
 
 ---------------------
 # Slotbepaling 
