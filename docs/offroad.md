@@ -64,7 +64,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Zirconiu Journey Sport (alleen met off-road banden)
 
 ### Off-road wegen
- * Aanhanger (alleen met off-road banden)
  * Albany Cavalade FXT
  * Annis Hellion
  * Annis Patriot
