@@ -1,4 +1,4 @@
-# Eilandregelgeving
+# Eilandregelgeving CombatGain
 
 De onderstaande regelgeving is uitsluitend van toepassing op het eiland Cayo Perico binnen CombatGain.
 Hoewel het algemene wetboek en de APV formeel ook gelden op het eiland, is er geen actieve handhaving vanuit overheidsdiensten aanwezig. Het eiland geldt als een zero tolerance gebied waar inwoners op eigen risico deelnemen aan roleplayscenario’s.
@@ -16,9 +16,7 @@ Hoewel het algemene wetboek en de APV formeel ook gelden op het eiland, is er ge
 2. Op het eiland is het toegestaan om personen te beroven, te handsuppen, te rippen en shootouts aan te gaan.
 3. Zodra je deelneemt aan combat op het eiland, accepteer je het risico om neergeschoten of gefinished te worden.
 4. Random shootouts zijn uitsluitend toegestaan op het eiland.
-5. Ondanks de versoepelde regelgeving blijft FailRP, cheats, exploits, metagaming en ander storend gedrag verboden.
 
 ### Artikel 3 - Campen
 
 1. Het is niet toegestaan om actieve drugs- of grindlocaties langdurig te campen met als doel spelers direct te beroven of lastig te vallen zonder roleplay-aanleiding.
-2. Het campen van de wapendealer NPC is wel toegestaan.
