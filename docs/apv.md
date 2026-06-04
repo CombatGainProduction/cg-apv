@@ -96,21 +96,20 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 
 > Sanctie: ⇨ Categorie 3: een ban van 12 uur + 75 uur taakstraf 
 
-### Artikel 6 - Combatlogging 
+### Artikel 6 - Combatlogging & combatstashing
 1. Het verlaten van de stad tijdens een lopend roleplayscenario zonder geldige reden of zonder toestemming wordt gezien als combatlogging.
 2. Indien een persoon zijn wapen heeft gebruikt, mag deze de komende 10 minuten de stad niet verlaten, indien iemand toch de stad uit moet dan dient deze persoon een report aan te maken bij de staffleden. 
 3. Indien je in een lopend scenario zat voor een geplande serverrestart dien je na deze restart de stad weer te joinen om het scenario voort te zetten. 
 4. Indien je door welke reden dan ook een gamecrash krijgt, dien je binnen 5 minuten terug in de server te zijn. 
+5. Indien je items (wapens, geld, benodigdheden voor overvallen) hebt geript, moet je 5 minuten wachten totdat je deze items weg mag leggen in een voertuig, appartement of huis.
+6. Het is toegestaan om een gebruikt wapen, over te geven aan een medespeler, de 5 minuten wachttijd gaat dan <b>NIET</b> opnieuw in. 
+7. Indien je als overheidsmedewerker criminele items hebt afgenomen dien je 5 minuten te wachten voordat je het HB in mag rijden. 
+8. Indien jij bijvoorbeeld een wapen in een dashboard stopt en je auto op slot zet, valt dit ook onder combatstashen. 
 
-> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + inventory wordt gecleared
+> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + inventory wordt gecleared (Combatlogging)
+>
+> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + items worden ingenomen (Combatstashing)
 
-### Artikel 6 - Combatstashing
-1. Indien je items (wapens, geld, benodigdheden voor overvallen) hebt geript, moet je 5 minuten wachten totdat je deze items weg mag leggen in een voertuig, appartement of huis.
-2. Het is toegestaan om een gebruikt wapen, over te geven aan een medespeler, de 5 minuten wachttijd gaat dan <b>NIET</b> opnieuw in. 
-3. Indien je als overheidsmedewerker criminele items hebt afgenomen dien je 5 minuten te wachten voordat je het HB in mag rijden. 
-4. Indien jij bijvoorbeeld een wapen in een dashboard stopt en je auto op slot zet, valt dit ook onder combatstashen. 
-
-> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + items worden ingenomen
 
 ### Artikel 7 - GTA Driving Style 
 1. Het is niet toegestaan een onrealistische rijstijl aan te nemen. Voorbeelden hiervan zijn:
