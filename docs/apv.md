@@ -57,7 +57,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 7. Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden. 
 8. Indien je betrokken bent bij een vuurgevecht en geraakt wordt, is het toegestaan om deel te blijven nemen aan het gevecht. Na afloop ben je echter verplicht om medische hulp te verkrijgen van bevoegd medisch personeel.
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Boete van €70.000 + 30 uur taakstraf 
 
 ### Artikel 2 - Cheats en externe software 
 1. Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
@@ -138,7 +138,7 @@ Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. 
 * Je hoeft niet mee te werken indien er een stroomstootwapen op je gericht staat. Wanneer je wel geraakt bent door dit wapen, dien je mee te werken en mag je niet meer wegrennen.  
 * Het is geen No Value Of Life indien je wordt gehandsupped buiten shoutingrange.
 
-> Sanctie: ⇨ Categorie 5: een ban 2 dagen + 150 uur taakstraf
+> Sanctie ⇨ Boete van €65.000 + 20 uur taakstraf 
 
 
 ### Artikel 9 - Hoorbaarheid
@@ -190,7 +190,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
     * Als een persoon bewust voor een voertuig gaat staan, zien we dit als een verkeersongeval.
     * Bewust voor iemand remmen zodat deze persoon tegen jou aanknalt is niet toegestaan.
 
-> Sanctie: ⇨ een ban van 1 dag + 100 uur taakstraf 
+> Sanctie ⇨ Boete van €75.000 + 30 uur taakstraf 
 
 ### Artikel 15 - RDM (Random Deathmatch)
 1. Het is verboden om willekeurige shootouts te starten zonder geldige roleplay aanleiding. 
@@ -202,7 +202,8 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 7. Wie een vuurwapen trekt op een locatie waar wordt geschoten, doet dit op eigen risico en mag worden doodgeschoten of gefinisht.
 8. Het willekeurig vermoorden van spelers zonder geldige reden is verboden.
 
-> Sanctie: ⇨ een ban van 1 dag + 100 uur taakstraf + een Super Moderator+ kan besluiten je wapen in te nemen. 
+> Sanctie ⇨ Boete van €75.000 + 30 uur taakstraf. 
+> Note: Een Super Moderator behoud zich het recht het vuurwapen in te nemen. 
 
 ### Artikel 16 - Rippen
 1. Indien je iemand illegale handelingen hebt zien uitvoeren, mag je deze persoon rippen. 
