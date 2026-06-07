@@ -137,6 +137,7 @@ Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. 
 * Het is geen No Value of Life indien iemand met een slag of steekwapen tegen de deur van je auto staat wanneer alle deuren en ramen gesloten zijn. 
 * Je hoeft niet mee te werken indien er een stroomstootwapen op je gericht staat. Wanneer je wel geraakt bent door dit wapen, dien je mee te werken en mag je niet meer wegrennen.  
 * Het is geen No Value Of Life indien je wordt gehandsupped buiten shoutingrange.
+* Op het moment dat je gehandsupped wordt, mag je niet gedwongen worden om de NPC met de drugsopslag te legen. 
 
 > Sanctie ⇨ Boete van €65.000 + 20 uur taakstraf 
 
@@ -222,6 +223,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 1. Schelden met hedendaags relevante ziektes, racistische opmerkingen of andere ernstig ongepaste uitingen is verboden.
 2. Vrouwonvriendelijke beledigingen of denigrerende opmerkingen zijn verboden.
 3. Het betrekken van ouders of familieleden in beledigingen of conflicten valt onder dit artikel en wordt zwaarder beoordeeld.
+4. Toxic gedrag wordt in geen enkele vorm toegestaan. Beoordeling of iets valt onder toxic gedrag is op bepaling van een stafflid. 
 
 > Sanctie ⇨ een ban van 1 dag + 100 uur taakstraf
 
