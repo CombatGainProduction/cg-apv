@@ -56,6 +56,8 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 6. Tijdens een achtervolging je voertuig in de garage zetten om ervoor te zorgen dat je wordt gepakt. 
 7. Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden. 
 8. Indien je betrokken bent bij een vuurgevecht en geraakt wordt, is het toegestaan om deel te blijven nemen aan het gevecht. Na afloop ben je echter verplicht om medische hulp te verkrijgen van bevoegd medisch personeel.
+9. Het is verplicht indien jij een actie uitvoert zoals "/me bind vast" dat je deze actie eindigt met "/e mechanic. Enkel als je dit op deze manier gebruikt is de actie geldig. Wanneer je "/e mechanic vergeet, is jouw actie ongeldig. 
+10. Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
 
 > Sanctie ⇨ Boete van €70.000 + 30 uur taakstraf 
 
