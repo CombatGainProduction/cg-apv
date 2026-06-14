@@ -219,6 +219,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 7. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. 
 8. Het is toegestaan iemand te rippen die jou overduidelijk volgt. 
 9. Indien je een persoon hebt geript, mag je hem/haar niet vermoorden.  
+10. Tijdens een actieve wapencirkel mag je ten alle tijden geript worden. Dit geldt als een illegale locatie. 
 
 > Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
 
