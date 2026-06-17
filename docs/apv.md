@@ -205,6 +205,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 6. Wie aan het schieten is, loopt het risico te worden doodgeschoten. Dit is eigen risico.
 7. Wie een vuurwapen trekt op een locatie waar wordt geschoten, doet dit op eigen risico en mag worden doodgeschoten of gefinisht.
 8. Het willekeurig vermoorden van spelers zonder geldige reden is verboden.
+9. Het is toegestaan iemand te doden indien hij overduidelijk aan het scouten rondom illegale activiteiten. 
 
 > Sanctie ⇨ Boete van €75.000 + 30 uur taakstraf. 
 > Note: Een Super Moderator behoud zich het recht het vuurwapen in te nemen. 
@@ -220,6 +221,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 8. Het is toegestaan iemand te rippen die jou overduidelijk volgt. 
 9. Indien je een persoon hebt geript, mag je hem/haar niet vermoorden.  
 10. Tijdens een actieve wapencirkel mag je ten alle tijden geript worden. Dit geldt als een illegale locatie. 
+11. Het is toegestaan iemand te rippen indien iemand overduidelijk aan het scouten/volgen is. 
 
 > Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
 
