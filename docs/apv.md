@@ -131,7 +131,7 @@ LET OP: <b>Pitten is geen beuken</b>
 Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. Er wordt van je verwacht dat je realistisch handelt op levensbedreigende situaties, enkele voorbeelden hiervan zijn: 
 
 * Het is niet toegestaan om zelfmoordscenario's op te zetten. 
-* Op het moment dat je geript wordt dien je de items binnen 10 seconden op de grond te droppen. 
+* Op het moment dat je geript wordt dien je de items binnen 10 seconden op de grond te droppen. Dit geldt ook voor je voertuig open te zetten. 
 * Het is niet toegestaan om met je voertuig het water in te rijden. 
 * Je bent verplicht mee te werken indien een slag/steekwapen binnen armlengte staat. 
 * Je mag niet van een brug afspringen indien je geen parachute hebt. 
