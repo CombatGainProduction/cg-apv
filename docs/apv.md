@@ -211,17 +211,18 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 > Note: Een Super Moderator behoud zich het recht het vuurwapen in te nemen. 
 
 ### Artikel 16 - Rippen
-1. Indien je iemand illegale handelingen hebt zien uitvoeren, mag je deze persoon rippen. 
-2. Indien iemand praat over illegale praktijken, mag je deze persoon ook rippen. 
-3. Indien iemand een kogelwerend vest aan heeft, mag je deze persoon rippen. 
-4. Indien iemand een holster of masker draagt mag je deze persoon rippen
-5. Het bewijs voor rippen is maximaal 3 uur geldig. 
-6. Je mag een voertuig uit een garage eisen, indien je een persoon hier overduidelijk illegale handelingen mee hebt zien doen. 
-7. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. 
-8. Het is toegestaan iemand te rippen die jou overduidelijk volgt. 
-9. Indien je een persoon hebt geript, mag je hem/haar niet vermoorden.  
-10. Tijdens een actieve wapencirkel mag je ten alle tijden geript worden. Dit geldt als een illegale locatie. 
-11. Het is toegestaan iemand te rippen indien iemand overduidelijk aan het scouten/volgen is. 
+
+Het is toegestaan iemand te rippen in de volgende gevallen; 
+* Dragen van een kogelwerend vest, masker en/of holster; 
+* Indien iemand actief aan het volgen/scouten is; 
+* Je hebt een persoon illegale handelingen zien verrichten; 
+* Persoon is in de straal van 50 meter van een illegale locatie; 
+
+- Het bewijs voor een rip is maximaal 3 uren geldig
+- Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
+- Je mag een persoon niet vermoorden als je hem/haar hebt geript. Dit geldt voor iedereen uit jouw groepering. 
+- Indien een wapencirkel actief is wordt dit gezien als een illegale locatie. 
+- Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. Tenzij persoon overduidelijk een anders eruit ziet dan voor de eerste rip. 
 
 > Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
 
