@@ -219,11 +219,11 @@ Het is toegestaan iemand te rippen in de volgende gevallen:
 * Je hebt een persoon illegale handelingen zien verrichten; 
 * Persoon is in de straal van 50 meter van een illegale locatie; 
 
-- Het bewijs voor een rip is maximaal 3 uren geldig
-- Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
-- Je mag een persoon niet vermoorden als je hem/haar hebt geript. Dit geldt voor iedereen uit jouw groepering. 
-- Indien een wapencirkel actief is wordt dit gezien als een illegale locatie. 
-- Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. Tenzij persoon overduidelijk een anders eruit ziet dan voor de eerste rip. 
+1. Het bewijs voor een rip is maximaal 3 uren geldig
+2. Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
+3. Je mag een persoon niet vermoorden als je hem/haar hebt geript. Dit geldt voor iedereen uit jouw groepering. 
+4. Indien een wapencirkel actief is wordt dit gezien als een illegale locatie. 
+5.  Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. Tenzij persoon overduidelijk een anders eruit ziet dan voor de eerste rip. 
 
 > Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
 
@@ -326,7 +326,7 @@ Het is toegestaan iemand te rippen in de volgende gevallen:
 
 > Sanctie ⇨ Categorie 1 : Een waarschuwing
 
-### Artikel 30 - Remake's 
+### Artikel 30 - Remakes 
 1. Het is ten strengste verboden om serverbestanden te dumpen, na te maken of op welke manier dan ook te verspreiden zonder uitdrukkelijke toestemming.
 2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
 
