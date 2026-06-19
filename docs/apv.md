@@ -217,7 +217,8 @@ Het is toegestaan iemand te rippen in de volgende gevallen:
 * Dragen van een kogelwerend vest, masker en/of holster; 
 * Indien iemand actief aan het volgen/scouten is; 
 * Je hebt een persoon illegale handelingen zien verrichten; 
-* Persoon is in de straal van 50 meter van een illegale locatie; 
+* Persoon is in de straal van 50 meter van een illegale locatie. 
+
 
 1. Het bewijs voor een rip is maximaal 3 uren geldig
 2. Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
