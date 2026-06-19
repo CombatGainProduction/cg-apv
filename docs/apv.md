@@ -213,10 +213,10 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 ### Artikel 16 - Rippen
 
 Het is toegestaan iemand te rippen in de volgende gevallen; 
-* Dragen van een kogelwerend vest, masker en/of holster; 
-* Indien iemand actief aan het volgen/scouten is; 
-* Je hebt een persoon illegale handelingen zien verrichten; 
-* Persoon is in de straal van 50 meter van een illegale locatie; 
+    * Dragen van een kogelwerend vest, masker en/of holster; 
+    * Indien iemand actief aan het volgen/scouten is; 
+    * Je hebt een persoon illegale handelingen zien verrichten; 
+    * Persoon is in de straal van 50 meter van een illegale locatie; 
 
 - Het bewijs voor een rip is maximaal 3 uren geldig
 - Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
