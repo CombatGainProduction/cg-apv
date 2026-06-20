@@ -212,19 +212,17 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 
 ### Artikel 16 - Rippen
 
-Het is toegestaan iemand te rippen in de volgende gevallen: 
+1. Het is toegestaan iemand te rippen in de volgende gevallen: 
 
 * Dragen van een kogelwerend vest, masker en/of holster; 
 * Indien iemand actief aan het volgen/scouten is; 
 * Je hebt een persoon illegale handelingen zien verrichten; 
 * Persoon is in de straal van 50 meter van een illegale locatie. 
-
-
-1. Het bewijs voor een rip is maximaal 3 uren geldig
-2. Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
-3. Je mag een persoon niet vermoorden als je hem/haar hebt geript. Dit geldt voor iedereen uit jouw groepering. 
-4. Indien een wapencirkel actief is wordt dit gezien als een illegale locatie. 
-5.  Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. Tenzij persoon overduidelijk een anders eruit ziet dan voor de eerste rip. 
+2. Het bewijs voor een rip is maximaal 3 uren geldig
+3. Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
+4. Je mag een persoon niet vermoorden als je hem/haar hebt geript. Dit geldt voor iedereen uit jouw groepering. 
+5. Indien een wapencirkel actief is wordt dit gezien als een illegale locatie. 
+6. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. Tenzij persoon overduidelijk een anders eruit ziet dan voor de eerste rip. 
 
 > Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
 
