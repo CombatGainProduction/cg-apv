@@ -39,3 +39,6 @@ nav:
   - Eiland Regelgeving: eiland.md
   - Voertuigklasses: offroad.md
   - Douanegebieden: douanegebieden.md
+
+extra_css:
+  - stylesheets/extra.css
