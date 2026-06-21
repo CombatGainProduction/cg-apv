@@ -85,14 +85,11 @@ html {
     overflow-y: overlay !important;
 }
 body {
-    background-image: url("../img/background.png");
+    background-image: url("docs/img/background.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 .md-main {
     background: transparent !important;
-}
-body {
-    background: red !important;
 }
