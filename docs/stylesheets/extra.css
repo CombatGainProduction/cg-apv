@@ -9,9 +9,6 @@
   --md-accent-fg-color: #ef4655;
 }
 
-/* -------------------------------------------------------------
-   Background image
-   ------------------------------------------------------------- */
 
 body::before {
   content: "";
@@ -24,9 +21,6 @@ body::before {
   background-position: center;
   opacity: 0.25;
 }
-/* -------------------------------------------------------------
-   Header & tabs
-   ------------------------------------------------------------- */
 
 .md-header,
 .md-tabs {
@@ -46,10 +40,6 @@ body::before {
 .md-header__button {
   filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.6));
 }
-
-/* -------------------------------------------------------------
-   Search
-   ------------------------------------------------------------- */
 
 .md-search__form {
   background-color: rgba(239, 70, 85, 0.55) !important;
@@ -259,3 +249,4 @@ html {
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
   color: #ffffff !important;
 }
+/* Made by John 
