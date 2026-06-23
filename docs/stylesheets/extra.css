@@ -1,7 +1,3 @@
-/* =============================================================
-   CombatGain — Custom theme overrides (Material for MkDocs)
-   ============================================================= */
-
 :root {
   --md-primary-fg-color: #ef4655;
   --md-primary-fg-color--light: #f47683;
@@ -66,10 +62,6 @@ body::before {
   fill: #ffffff !important;
 }
 
-/* -------------------------------------------------------------
-   Links & navigation
-   ------------------------------------------------------------- */
-
 .md-typeset a,
 .md-nav__link--active,
 .md-sidebar .md-nav__link--active {
@@ -96,10 +88,6 @@ body::before {
   backdrop-filter: none !important;
   -webkit-backdrop-filter: none !important;
 }
-
-/* -------------------------------------------------------------
-   Scrollbars
-   ------------------------------------------------------------- */
 
 html {
   scrollbar-color: #ef4655 #1a1a1a;
@@ -140,10 +128,6 @@ html {
   background: transparent !important;
 }
 
-/* -------------------------------------------------------------
-   Admonitions — danger (artikel-spoilers)
-   ------------------------------------------------------------- */
-
 .md-typeset .admonition.danger,
 .md-typeset details.danger {
   border-color: #ef4655;
@@ -165,10 +149,6 @@ html {
   color: #ef4655;
 }
 
-/* -------------------------------------------------------------
-   Admonitions — quote (intro-tekst)
-   ------------------------------------------------------------- */
-
 .md-typeset .admonition.quote,
 .md-typeset details.quote {
   border-color: #ef4655;
@@ -185,10 +165,6 @@ html {
 .md-typeset details.quote > summary::before {
   background-color: #ef4655;
 }
-
-/* -------------------------------------------------------------
-   Tables
-   ------------------------------------------------------------- */
 
 .md-typeset table:not([class]) {
   border: 1px solid #ef4655;
@@ -212,9 +188,6 @@ html {
   background-color: #f9d7da;
 }
 
-/* -------------------------------------------------------------
-   Dark mode overrides
-   ------------------------------------------------------------- */
 
 [data-md-color-scheme="slate"] .md-typeset .admonition.danger,
 [data-md-color-scheme="slate"] .md-typeset details.danger,
