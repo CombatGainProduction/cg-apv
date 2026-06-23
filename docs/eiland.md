@@ -22,13 +22,13 @@
 
 #### 🏛️ Artikel 1 — Jurisdictie
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Politie, Ambulance en overige overheidsdiensten hebben geen actieve bevoegdheden op het eiland en zullen hier in principe niet optreden.
     2. Indien een achtervolging of scenario buiten het eiland is gestart en een verdachte vlucht richting het eiland, mogen betrokken diensten het scenario voortzetten op en rondom het eiland.
 
 #### ⚠️ Artikel 2 — Zero Tolerance
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Het eiland wordt beschouwd als een **high risk gebied** waar verhoogd crimineel conflict toegestaan is.
     2. Op het eiland is het toegestaan om personen te beroven, te handsuppen, te rippen en shootouts aan te gaan.
     3. Zodra je deelneemt aan combat op het eiland, accepteer je het risico om neergeschoten of gefinisht te worden.
@@ -39,7 +39,7 @@
 
 #### 🏕️ Artikel 3 — Campen
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Het is niet toegestaan om actieve drugs- of grindlocaties langdurig te campen met als doel spelers direct te beroven of lastig te vallen zonder roleplay-aanleiding.
 
 ---
