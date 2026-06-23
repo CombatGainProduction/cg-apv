@@ -38,25 +38,25 @@
 
 #### 📌 A1 — Toepassing
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Het wetboek van CombatGain is van toepassing op het gehele grondgebied van de stad CombatGain.
     2. Aanvullend op alle beschreven gevallen in dit wetboek is het Nederlands recht van toepassing.
 
 #### 📌 A2 — Geldigheid
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
     2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
     3. Minderjarigen worden binnen CombatGain op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in CombatGain niet van toepassing.
 
 #### 📌 A3 — Verjaring van het strafbaar feit
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Strafbare feiten verjaren na een periode van 30 dagen.
 
 #### 📌 A4 — Strafbepaling
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
         - Officiële waarschuwingen
         - Taakstraffen
@@ -73,7 +73,7 @@
 
 #### 📌 A5 — Inbeslagnames en invorderingen
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
     2. Wanneer een voertuig in beslag wordt genomen:
         - Kan het maximaal 3 dagen worden vastgehouden voor onderzoek;
@@ -88,7 +88,7 @@
 
 #### 📌 A6 — Consultatierecht
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Krachtens artikel 6 van het EVRM is het een verdachte, voorafgaand aan een verhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
     2. Indien de voorkeursadvocaat niet beschikbaar is, is een vervangend advocaat afdoende.
     3. Indien de verdachte verkiest zelf een advocaat op te roepen, zijn de kosten voor rekening van de verdachte.
@@ -97,7 +97,7 @@
 
 #### 📌 A7 — Algemene rechtsbeginselen
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Hieronder vallen:
 
     1. **Subsidiariteit** — het toepassen van maatregelen die het minst bezwarend zijn;
@@ -114,7 +114,7 @@
 
 #### 📌 A8 — Medeplichtigheid en medeplegen
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Als medeplichtigen van een strafbaar feit worden gestraft: zij die opzettelijk behulpzaam zijn bij het plegen, gelegenheid of middelen verschaffen, of het misdrijf bevorderen.
     2. Bij aantoonbare medeplichtigheid (waarbij de rol duidelijk kleiner is dan de hoofdverdachte) wordt de strafeis verminderd met **15%**.
     3. Als daders worden gestraft: zij die het feit plegen, doen plegen of medeplegen, alsmede zij die door giften, beloften of misleiding het feit opzettelijk uitlokken.
@@ -124,7 +124,7 @@
 
 #### 📌 A9 — Voorhechtenis
 
-??? info "💡 Uitleg"
+??? warning "💡 Uitleg"
     1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
     2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
     3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengd worden tot 72 uur voorarrest door een hOvJ.
@@ -413,7 +413,7 @@
 
 #### 🚗 Artikel III-1 — Verkeersovertredingen in algemene zin (5 WVW)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Bij verkeersovertredingen in het algemeen, zonder verdere specificatie, wordt een boete van €1.000,- per geval opgelegd.
     2. De dienstdoende agent kan afhankelijk van de aard van de overtreding ervoor kiezen een waarschuwing te geven in plaats van een boete.
 
@@ -904,7 +904,7 @@
 
 #### 🛡️ Artikel VI-3 — Strafvermindering (44a.2 SR)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Als leidraad voor strafvermindering kan gebruikt worden:
         - Vermindering van maximaal de helft bij een tijdelijke vrijheidsstraf, taakstraf of geldboete;
         - Omzetting van maximaal de helft van het onvoorwaardelijke gedeelte in een voorwaardelijk gedeelte;
@@ -1027,7 +1027,7 @@
 
 #### 📋 Artikel VII-12 — Recht op bijstand Advocaat tijdens huiszoeking (99a SV)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
 #### 📋 Artikel VII-13 — Misdrijven tegen de openbare orde (131 SR)
