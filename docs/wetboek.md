@@ -520,7 +520,7 @@
 
 #### 🚗 Artikel III-10 — Fout parkeren (25 RVV 1990)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Schuldig is een persoon die zijn of haar voertuig op een wijze parkeert die niet overeenkomt met de aangegeven parkeersituatie, zoals dubbelparkeren, langs een rode trottoirrand, volledig op de stoep, of op een plaats voor dienstvoertuigen.
     2. Boete: **€ 3.500,-**
 
@@ -543,7 +543,7 @@
 
 #### 🚗 Artikel III-12 — Voertuigeisen
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     Een voertuig moet voldoen aan de volgende eisen:
 
     1. Ten minste één nummerplaat, of een geldig document als bewijs van ontheffing.
@@ -574,7 +574,7 @@
 
 #### 🚗 Artikel III-13 — Overige verkeersboetes
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     | *Feit* | *Boete* |
     |---|---|
     | Blokkeren van de weg | € 1.440,- |
@@ -882,7 +882,7 @@
 
 #### 🛡️ Artikel VI-1 — Algemene Uitsluitingen (39–43 SR)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     Niet schuldig is een persoon die:
 
     1. Wegens gebrekkige ontwikkeling of ziekelijke stoornis een strafbaar feit begaat;
@@ -894,7 +894,7 @@
 
 #### 🛡️ Artikel VI-2 — Vormfouten
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Indien bij het voorbereidend onderzoek vormen zijn verzuimd die niet meer hersteld kunnen worden, kan de (hulp-)Officier van Justitie of rechter bepalen dat:
         - De straf wordt verlaagd in verhouding tot de ernst van het verzuim;
         - De resultaten van het onderzoek niet mogen bijdragen aan het bewijs;
@@ -1104,7 +1104,7 @@
 
 #### 📋 Artikel VII-19 — Uitsluitingen en bijzondere bepalingen
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Artikel VI-1 (Uitsluitingsgronden) is van overeenkomstige toepassing op overtredingen onder deze titel.
     2. Indien een jager handelt in noodsituatie of ter bescherming van mens of dier, kan de (hulp-)Officier van Justitie besluiten af te zien van vervolging.
     3. De overheid behoudt zich het recht voor jachtlicenties in te trekken bij herhaalde overtredingen of ernstig misbruik.
@@ -1126,7 +1126,7 @@
 
 #### 💸 Artikel IX-1 — Schadevergoeding bij onterechte inverzekeringstelling (533 SV)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Indien de zaak eindigt zonder oplegging van straf, wordt een vergoeding uit de overheidkas toegekend voor schade door ondergane inverzekeringstelling of voorlopige hechtenis.
     2. Het eisen van een vergoeding is alleen mogelijk indien een advocaat betrokken is bij de zaak.
     3. Het schadevergoedingsdocument kan alleen worden ondertekend door een OvJ/HOvJ/hOvJ.
@@ -1139,7 +1139,7 @@
 
 #### 💸 Artikel IX-2 — Schadevergoeding bij buitensporig geweld door overheidsmedewerker
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Een overheidsmedewerker is bevoegd geweld te gebruiken wanneer het daarmee beoogde doel dit rechtvaardigt en niet op een andere wijze bereikt kan worden.
     2. Bij buitensporig geweld is de politie en/of KMar aansprakelijk voor de veroorzaakte schade.
     3. Het eisen van een vergoeding is alleen mogelijk indien een advocaat betrokken is bij de zaak.
@@ -1167,7 +1167,7 @@
 
 #### 🛃 Artikel X-2 — Bepalingen inzake douanetoezicht en douanecontrole
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     | *Definitie* | *Toelichting* |
     |---|---|
     | **Open water** | Rivieren, meren en zeeën in directe verbinding met de open zee/oceaan, bevaarbaar voor schepen |
@@ -1185,7 +1185,7 @@
 
 #### 🔍 Artikel XI-1 — Het opsporingsonderzoek (141 SV)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     Met de opsporing van strafbare feiten zijn belast:
 
     1. De (hulp)officieren van justitie;
@@ -1197,7 +1197,7 @@
 
 #### 🔍 Artikel XI-2 — Wettige bewijsmiddelen (338/339 SV)
 
-??? info "💡 Uitleg"
+??? danger "💡 Uitleg"
     1. Het bewijs dat de verdachte een feit heeft begaan kan alleen worden aangenomen op basis van wettige bewijsmiddelen.
     2. Als wettige bewijsmiddelen worden erkend:
         - Eigen waarneming van de rechter (foto- en videomateriaal);
