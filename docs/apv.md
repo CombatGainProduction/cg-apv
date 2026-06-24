@@ -353,6 +353,7 @@
     1. Ambulancemedewerkers mogen niet worden ontvoerd wanneer zij zichtbaar in dienst zijn.
     2. Per 3 agenten in dienst mag er 1 agent gegijzeld worden.
     3. Agenten die bezig zijn met een training mogen niet worden gegijzeld. Er moet zichtbaar zijn dat zij in een training zitten.
+    4. Het is niet toegestaan om de onderhandelaar te gijzelen. Wel moet het vooraf duidelijk zijn wie de onderhandelaar is. 
 
     **🚨 Sanctie ⇨ Categorie 2** *(taakstraf van 100 uur)*
 
