@@ -45,7 +45,7 @@
 | 🟡 4 | Taakstraf van 300 uur |
 | 🟠 5 | Taakstraf van 400 uur |
 | 🟠 6 | Taakstraf van 800 uur |
-| 🟠 7 | Taakstraf van 100 uur |
+| 🟠 7 | Taakstraf van 1000 uur |
 | 🔴 8 | Taakstraf van 1.500 uur |
 | ⛔ 9 | Permanente verbanning |
 | ☠️ 10 | Permanente verbanning inclusief accountwipe |
