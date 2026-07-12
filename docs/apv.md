@@ -72,6 +72,12 @@
 
     Voer je een actie uit zoals `/me bind vast`, dan ben je verplicht deze af te sluiten met `/e mechanic`. Alleen op die manier is de actie geldig; vergeet je `/e mechanic`, dan is de actie ongeldig. Tot slot is het verboden om meth te produceren in of onder gebouwen, in tunnels of op treinsporen — kortom, er mag niet gekookt worden op locaties waar de rode rook niet zichtbaar is.
 
+    1. Indien je een crasheffect hebt, mag je 30 seconde niet meer doorrijden en/of uitstappen en een shootout aangaan. 
+    2. Het is niet toegestaan om enige vorm van erotische roleplay toe te passen.
+    3. Indien je bent overleden, mag je niet in /me of voicechat praten. 
+    4. Het is verboden om agenten te dwingen een wapen af te nemen van een persoon. 
+
+
     **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 100 uur)*
 
 #### 🖥️ Artikel 2 — Cheats
@@ -136,7 +142,7 @@
     2. In "Voertuigklasses" staat vermeld welke voertuigen off-road mogen rijden.
     3. Het is toegestaan om te pitten met een maximale snelheid van 100 km/h.
     4. Leden van de Eenheid Speciale Interventies mogen een pit uitvoeren met een maximale snelheid van 150 km/h.
-    5. Politieagenten die in een SIV-voertuig rijden, zijn bevoegd om pits uit te voeren met een maximale snelheid van 120 km/h.
+    5. Politieagenten die in een SIV-voertuig rijden, zijn bevoegd om pits uit te voeren met een maximale snelheid van 130 km/h.
 
     !!! warning "⚠️ Let op"
         Pitten is geen beuken.
@@ -342,6 +348,8 @@
     4. Indien de politie geen duidelijke afzetting heeft geplaatst, mag jouw overval gecounterd worden.
     5. Het is niet toegestaan een hostage te rippen.
     6. Het is niet toegestaan om een zogenoemde friendly hostage te nemen.
+    7. Indien je iemand gijzelt voor een overval mag je deze persoon maximaal 20 minuten gijzelen voorafgaand aan de overval. 
+    8. Het is verboden om een overval te plegen met een super/hyper car. 
 
     **🚨 Sanctie ⇨ Categorie 3** *(Waarschuwing + een taakstraf van 200 uur)*
 
@@ -351,6 +359,8 @@
     1. Het is niet toegestaan om politieagenten te gijzelen. 
     2. Het is wel toegestaan een agent te handsuppen, indien deze agent iemand in zijn auto heeft die jij vrij wilt krijgen. 
     3. Het is niet mogelijk om wapens terug te eisen, die al zijn afgenomen door de politie. 
+    4. Het is niet toegestaan om de onderhandelaar te gijzelen en/of te vermoorden. 
+    5. Het is niet toegestaan om ambulance personeel te gijzelen. 
 
     **🚨 Sanctie ⇨ Categorie 2** *(Waarschuwing + een taakstraf van 150 uur)*
 
