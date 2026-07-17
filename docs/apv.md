@@ -356,11 +356,13 @@
 #### ⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers
 
 ??? danger "💡 Uitleg"
-    1. Het is niet toegestaan om politieagenten te gijzelen. 
-    2. Het is wel toegestaan een agent te handsuppen, indien deze agent iemand in zijn auto heeft die jij vrij wilt krijgen. 
-    3. Het is niet mogelijk om wapens terug te eisen, die al zijn afgenomen door de politie. 
+
+    1. Je kan een wapen terugeisen indien jij een Brigadier of hoger hebt gegijzeld. Dit geldt als 1 eis. 
+    2. Het is verboden om agenten te gijzelen voor een overval. 
+    3. Per 6 agenten in dienst mag je 1 agent gijzelen, hierbij is F10 leidend.  
     4. Het is niet toegestaan om de onderhandelaar te gijzelen en/of te vermoorden. 
     5. Het is niet toegestaan om ambulance personeel te gijzelen. 
+    6. Een medewerker van de politie, ongeacht de rang is 1 eis waard. 
 
     **🚨 Sanctie ⇨ Categorie 2** *(Waarschuwing + een taakstraf van 150 uur)*
 
