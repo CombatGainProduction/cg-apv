@@ -156,6 +156,8 @@
 
     Rijd je boven de 30 km/h, dan hoef je niet uit te stappen als daarom gevraagd wordt. Staat er een wapen op je gericht, dan mag je geen gebruik maken van je telefoon of portofoon, en mag ook de overheid geen noodknoppen meer inzetten. Het is geen No Value of Life wanneer iemand met een slag- of steekwapen tegen de deur van je auto staat terwijl alle deuren en ramen gesloten zijn, en evenmin wanneer je buiten shoutingrange wordt gehandsupt. Bij een stroomstootwapen hoef je niet mee te werken zolang je nog niet geraakt bent; ben je wel geraakt, dan dien je mee te werken en mag je niet meer wegrennen. Word je gehandsupt, dan mag je niet gedwongen worden om de NPC met de drugsopslag te legen.
 
+    Wanneer jij wordt gefouilleerd, is het niet toegestaan om weg te rennen / zelf een wapen vast te pakken.
+
     **🚨 Sanctie ⇨ Categorie 4** *(Een verbanning van 1 dag)*
 
 #### 🎙️ Artikel 9 — Hoorbaarheid
@@ -215,6 +217,8 @@
         - ook als je iemand niet volledig doodrijdt, maar wel bewust aanrijdt, telt dit als VDM;
         - als een persoon bewust voor een voertuig gaat staan, zien we dit als een verkeersongeval;
         - bewust voor iemand remmen zodat deze persoon tegen jou aanknalt, is niet toegestaan.
+    3. Tijdens een rijdende blokkade is het niet toegestaan om een motor te blokkeren.
+        Een voertuig mag geen zwaarder voertuig pitten of brake checken, de volgorde gaat als volgt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupé \ 4: SUV’s \ 5: Bussen en vrachtwagens.
 
     **🚨 Sanctie ⇨ Categorie 4** *(Een verbanning van 1 dag)*
 
@@ -350,21 +354,18 @@
     6. Het is niet toegestaan om een zogenoemde friendly hostage te nemen.
     7. Indien je iemand gijzelt voor een overval mag je deze persoon maximaal 20 minuten gijzelen voorafgaand aan de overval. 
     8. Het is verboden om een overval te plegen met een super/hyper car. 
-
+    9. Het is niet verplicht een hostage te hebben bij het starten van een overval. Wel heeft de politie recht tot inval/clearshot, wanneer er geen eisen (hostages) zijn.
+    
     **🚨 Sanctie ⇨ Categorie 3** *(Waarschuwing + een taakstraf van 200 uur)*
 
-#### ⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers
+#### ⛓️ Artikel 27 — Setups 
 
 ??? danger "💡 Uitleg"
 
-    1. Je kan een wapen terugeisen indien jij een Brigadier of hoger hebt gegijzeld. Dit geldt als 1 eis. 
-    2. Het is verboden om agenten te gijzelen voor een overval. 
-    3. Per 6 agenten in dienst mag je 1 agent gijzelen, hierbij is F10 leidend.  
-    4. Het is niet toegestaan om de onderhandelaar te gijzelen en/of te vermoorden. 
-    5. Het is niet toegestaan om ambulance personeel te gijzelen. 
-    6. Een medewerker van de politie, ongeacht de rang is 1 eis waard. 
+    1. Het is pas toegestaan om een setup te plaatsen, na een achtervolging van 5 minuten (dit geldt voor situaties waar er een groen licht gegeven wordt).
+    Tijdens de setup is het niet toegestaan om de agenten/burgers direct dood te schieten.
 
-    **🚨 Sanctie ⇨ Categorie 2** *(Waarschuwing + een taakstraf van 150 uur)*
+    **🚨 Sanctie ⇨ Categorie 4** *(Een verbanning van 1 dag)*
 
 #### 🚁 Artikel 28 — Helikopters en vliegtuigen
 
