@@ -355,17 +355,20 @@
     7. Indien je iemand gijzelt voor een overval mag je deze persoon maximaal 20 minuten gijzelen voorafgaand aan de overval. 
     8. Het is verboden om een overval te plegen met een super/hyper car. 
     9. Het is niet verplicht een hostage te hebben bij het starten van een overval. Wel heeft de politie recht tot inval/clearshot, wanneer er geen eisen (hostages) zijn.
-    
+
     **🚨 Sanctie ⇨ Categorie 3** *(Waarschuwing + een taakstraf van 200 uur)*
 
-#### ⛓️ Artikel 27 — Setups 
+#### ⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers
 
 ??? danger "💡 Uitleg"
 
-    1. Het is pas toegestaan om een setup te plaatsen, na een achtervolging van 5 minuten (dit geldt voor situaties waar er een groen licht gegeven wordt).
-    Tijdens de setup is het niet toegestaan om de agenten/burgers direct dood te schieten.
+     1. Je kan een wapen terugeisen indien jij een Brigadier of hoger hebt gegijzeld. Dit geldt als 1 eis. 
+     2. Per 6 agenten in dienst mag je 1 agent gijzelen, hierbij is F10 leidend.
+     3. Een medewerker van de politie, ongeacht de rang is 1 eis waard.
+     4. Het is niet toegestaan om de onderhandelaar te gijzelen en/of te vermoorden. 
+     5. Het is niet toegestaan om ambulance personeel te gijzelen. 
 
-    **🚨 Sanctie ⇨ Categorie 4** *(Een verbanning van 1 dag)*
+    **🚨 Sanctie ⇨ Categorie 2** *(Waarschuwing + een taakstraf van 150 uur)*
 
 #### 🚁 Artikel 28 — Helikopters en vliegtuigen
 
@@ -392,6 +395,16 @@
     2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
 
     **☠️ Sanctie ⇨ Categorie 8** *(Een permanente verbanning)*
+
+#### 🧬 Artikel 31 - Setups
+
+??? danger "💡 Uitleg"
+    1. Het is pas toegestaan om een setup te plaatsen, na een achtervolging van 5 minuten (dit geldt voor situaties waar er een groen licht gegeven wordt).
+    2. Tijdens de setup is het niet toegestaan om de agenten/burgers direct dood te schieten.
+
+
+    **🚨 Sanctie ⇨ Categorie 4** *(Een verbanning van 1 dag)*
+
 
 ---
 
